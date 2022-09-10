@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Rafael
 
+##
 
 <div>
   <a href="https://beacons.ai/rafael-rs19">
@@ -14,3 +15,9 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
+##
+  
+<div>
+  <a href="https://www.youtube.com/channel/UCfk_z_RS25_ezHYlnWNuQrA" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/chaos_th.art/" target="_blank"><img src"https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
